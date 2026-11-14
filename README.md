@@ -14,4 +14,4 @@ The sequential nature of this solution requires a sequential output device; here
 
 ![110 triangle on scope](images/triangle_on_scope.jpg)
 
-Licensed under the MIT License. Applies to the schematics, documentation and scripts.
+Licensed under the MIT License. Applies to all files in this repository, including schematics, documentation, scripts and images.
